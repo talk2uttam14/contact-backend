@@ -18,7 +18,7 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [git@github.com:talk2uttam14/contact-backend.git](https://github.com/talk2uttam14/contact-backend.git)
+   git clone git@github.com:talk2uttam14/contact-backend.git
    ```
 2. Navigate to the project directory:
    ```sh
